@@ -1,0 +1,26 @@
+{
+  "name": "GeoMatrix",
+  "version": "0.0.1",
+  "dependencies": {
+      "geopoint":"*"
+  },
+  "_npmUser": {
+    "email": "jaroarojaro@live.com.pt",
+    "name": "joliveira"
+  },
+  "author": {
+    "email": "jaroarojaro@live.com.pt",
+    "name": "José Oliveira"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "geolocation",
+    "point",
+    "distance","geomatrix","geographic"
+  ],
+  "main": "./index.js",
+  "readmeFilename": "README.md",
+}
+
