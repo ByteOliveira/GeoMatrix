@@ -1,6 +1,6 @@
 {
   "name": "GeoMatrix",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
       "geopoint":"*"
   },
@@ -22,5 +22,9 @@
   ],
   "main": "./index.js",
   "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aTuaMaeD4/GeoMatrix.git"
+  }
 }
 

@@ -1,5 +1,5 @@
 # Geographic Matrix
-GeoMatrix represents a geographic map for node.js with enhanced point clustering and "nearby" points distance calculation.
+GeoMatrix represents a geographic map for node.js with enhanced point clustering and \"nearby\" points distance calculation.
 
 ## Installation
 
